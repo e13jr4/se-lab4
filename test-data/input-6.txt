@@ -1,0 +1,4 @@
+#When secondary is empty, change back to primary
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

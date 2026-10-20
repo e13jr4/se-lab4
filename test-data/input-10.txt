@@ -1,0 +1,3 @@
+#ALL mode, when only secondary has bullets
+GT4500,0,0,10,0
+TORPEDO,ALL
